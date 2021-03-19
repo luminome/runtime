@@ -1,0 +1,1 @@
+To solve it the only thing you have to do is when the ball hits the ground reverse the vertical velocity and place the ball on the barrier so that the ball will lock on to the ground because the 9.8 / 4 upwards velocity won't be enough to 'unlock' it and set it in another bounce.

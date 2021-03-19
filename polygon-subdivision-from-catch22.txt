@@ -1,0 +1,4 @@
+mask = 2 ** 16 - 1
+k = (i << j) & mask
+
+where 16 is the bit-width, c# int is 32
